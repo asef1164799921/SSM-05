@@ -19,6 +19,4 @@ public interface UserDao {
 
     int add6();
 
-    int add9();
-
-int  add7();}
+   int  add7();}
